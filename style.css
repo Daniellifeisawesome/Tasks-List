@@ -1,0 +1,16 @@
+body {
+    width: 25%;
+}
+.yellow {
+    width: 90%;
+}
+input {
+    width: 80%;
+}
+button {
+    border-style: none;
+}
+.sort {
+    width: 10%;
+    margin-left: 70%;
+}
